@@ -13,9 +13,11 @@
 
 ### 1. Dataset
 https://www.kaggle.com/datasets/rupakroy/online-payments-fraud-detection-dataset
+Download this dataset from the link above and store it in code files as "fraud detection dataset.csv"
+
 ### 2. Video Presentation
 https://drive.google.com/file/d/1Jvh_tCgqJT9kw84Gnv2RD8Kx_06AcaOB/view?usp=drivesdk
-Download this dataset from the link above and store it in code files as "fraud detection dataset.csv"
+
 
 
 
